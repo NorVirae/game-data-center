@@ -32,3 +32,17 @@ C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\obj\Deb
 C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\obj\Debug\net6.0\game-data-center.pdb
 C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\obj\Debug\net6.0\game-data-center.genruntimeconfig.cache
 C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\obj\Debug\net6.0\ref\game-data-center.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\AWSSDK.Core.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\DnsClient.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\MongoDB.Bson.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\MongoDB.Driver.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\SharpCompress.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\Snappier.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\ZstdSharp.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\norbe\Documents\Quiva\EOI\Eoi-game-data-center\game-data-center\obj\Debug\net6.0\game-data-center.sourcelink.json

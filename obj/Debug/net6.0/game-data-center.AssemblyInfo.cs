@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("game-data-center")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce4670627fc521ff93461cadcf3b55ac85910a77")]
 [assembly: System.Reflection.AssemblyProductAttribute("game-data-center")]
 [assembly: System.Reflection.AssemblyTitleAttribute("game-data-center")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
